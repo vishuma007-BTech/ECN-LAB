@@ -24,6 +24,7 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="720" height="1075" alt="image" src="https://github.com/user-attachments/assets/99faf146-4e48-4ed8-8081-aaae3abc4049" />
 
 
 
